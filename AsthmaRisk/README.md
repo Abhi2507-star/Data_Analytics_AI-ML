@@ -1,4 +1,4 @@
-# 🫁 AsthmaGuard Pro
+# 🫁 AsthmaRisk
 
 A simple Streamlit app that checks **asthma risk** using a machine learning model.
 The user enters health details, environment details, and symptoms.
@@ -66,5 +66,6 @@ README.md             → project info
 
 * If the model file is missing, the app will show an error
 * You must run `train_model.py` once to create the model
+
 
 ---
